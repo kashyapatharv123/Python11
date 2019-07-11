@@ -20,4 +20,4 @@ White	    37		                         	White	        47'''''
 
 print('Techsrijan Consultancy services Pvt Limited')
 
-print("\033[1;33;41m Techsrijan Consultancy services Pvt Limited  ")
+print("\033[1;37;40m Techsrijan Consultancy services Pvt Limited  ")
