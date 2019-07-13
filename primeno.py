@@ -1,3 +1,4 @@
+from math import *
 '''
 
 5%2  not prime
@@ -24,6 +25,8 @@ while i<=num-1:
 
     i=i+1
 '''
+
+'''
 i=2
 while i<=num-1:
     if num%i==0:
@@ -32,4 +35,15 @@ while i<=num-1:
     i=i+1
 
 else:
-    print("not prime")
+    print("prime")
+'''
+
+i=2
+while i<=sqrt(num):
+    if num%i==0:
+        print("not Prime no")
+        break
+    i=i+1
+
+else:
+    print("prime")
