@@ -1,6 +1,6 @@
 print(r"hello \n how r u?")
 
-print("\U0001F600")
+print("\U0001F604")
 
 print("\U0001F600")
 
